@@ -9,11 +9,11 @@ This plugin is to control ITead Sonoff devices that have been flashed with [Sono
 [Changelog](changelog.md)
 
 ##  Screenshots
-![screenshot](screenshot.png)
+![screenshot](screenshot1.png)
 
-![screenshot](settings.png)
+![screenshot](settings1.png)
 
-![screenshot](tasmota_editor.png)
+![screenshot](tasmota_editor1.png)
 
 ## Setup
 
